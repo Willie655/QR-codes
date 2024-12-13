@@ -1,0 +1,45 @@
+body {
+    background-color: #D6E1EF;
+    font-family: sans-serif;
+}
+
+.container {
+    background-color: #FFFFFF;
+    border: 0px ;
+    width: 220px;
+    max-width: fit-content;
+    height: 340px;
+    padding: 16px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius:10px ;
+    box-shadow: 10px;
+
+}
+
+ img{
+  border-radius: 5px;
+  
+ }
+
+
+.text{
+   color: #757B86;
+   font-size: 13px;
+   text-align: center;
+   
+}
+
+.h3{
+   font-size: 14px;
+   text-align: center;
+}
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
